@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=1jiBXpVogmXWsiQ_BioYxZL8qFis1vGxH'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1uNNFwDOM9HB_Bnnd3n5s9BasKq5dKq7P'
 export_file_name = 'export.pkl'
 
 classes = ['earth','jupiter','saturn', 'mars']
